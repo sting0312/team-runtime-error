@@ -1,4 +1,5 @@
 Unnamed: 0,ID,TMC,Severity,Start_Time,End_Time,Start_Lat,Start_Lng,Description,Number,Street,City,County,State,Temperature(F),Visibility(mi),Weather_Condition,Traffic_Signal
+3237911,A-3242083,,2,2020-11-09 05:48:32,2020-11-09 08:48:37,44.342566,-92.761861,Incident on US-52 NB near 135TH AVE Drive with caution.,,Highway 52 Blvd,Zumbrota,Goodhue,MN,63.0,10.0,Cloudy / Windy,False
 3237924,A-3242097,,2,2020-12-24 13:17:03,2020-12-24 14:32:04,43.982421,-93.254978,Incident on I-35 NB near CR-4 Drive with caution.,,I-35 N,Owatonna,Steele,MN,3.0,7.0,Fair,False
 3237960,A-3242133,,2,2020-11-19 17:10:30,2020-11-20 00:04:00,44.777258,-93.378349,Stationary traffic on MN-13 from CR-101 (MN-13) to CR-16/McColl Dr (MN-13) due to accident.,,Highway 13 S,Savage,Scott,MN,49.0,10.0,Fair,False
 3237988,A-3242161,,2,2020-11-03 03:00:22,2020-11-03 04:15:27,44.108266,-92.469403,Incident on US-63 near 11TH AVE Drive with caution.,724.0, 75th St NW,Rochester,Olmsted,MN,44.0,10.0,Fair,False
@@ -10609,3 +10610,4 @@ Unnamed: 0,ID,TMC,Severity,Start_Time,End_Time,Start_Lat,Start_Lng,Description,N
 3561921,A-3568727,,2,2020-03-06 17:00:00,2020-03-06 17:33:23,44.94196,-93.27457,At 35th St/36th St/Exit 14 - Accident.,,I-35W N,Minneapolis,Hennepin,MN,37.0,10.0,Partly Cloudy,False
 3561922,A-3568728,,2,2020-03-06 17:06:00,2020-03-06 17:59:22,44.16668,-93.94899,At MN-22 - Accident.,,County Hwy-17,Mankato,Blue Earth,MN,34.0,10.0,Fair,False
 3561925,A-3568731,,2,2020-03-06 17:20:00,2020-03-06 17:53:24,44.98713,-93.34925,At MN-55 - Accident.,,Beltline Hwy S,Minneapolis,Hennepin,MN,37.0,10.0,Fair,False
+3561928,A-3568734,,2,2020-03-06 17:26:00,2020-03-06 17:59:23,44.88705,-93.33366,At Valley View Rd - Accident.,,Valley View Rd,Minneapolis,Hennepin,MN,35.0,10.0,Partly Cloudy,True
