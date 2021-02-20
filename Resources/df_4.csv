@@ -1,4 +1,5 @@
 Unnamed: 0,ID,TMC,Severity,Start_Time,End_Time,Start_Lat,Start_Lng,Description,Number,Street,City,County,State,Temperature(F),Visibility(mi),Weather_Condition,Traffic_Signal
+3561928,A-3568734,,2,2020-03-06 17:26:00,2020-03-06 17:59:23,44.88705,-93.33366,At Valley View Rd - Accident.,,Valley View Rd,Minneapolis,Hennepin,MN,35.0,10.0,Partly Cloudy,True
 3561929,A-3568735,,2,2020-03-06 17:30:00,2020-03-06 18:43:21,44.97,-93.30883,At CR-2/Penn Ave/Exit 7 - Accident.,,Penn Ave S,Minneapolis,Hennepin,MN,35.0,10.0,Fair,False
 3561931,A-3568737,,2,2020-03-06 17:57:00,2020-03-06 18:30:23,44.88965,-93.38693,At Gleason Rd - Accident.,,Gleason Rd,Minneapolis,Hennepin,MN,35.0,10.0,Fair,False
 3561932,A-3568738,,2,2020-03-06 18:11:00,2020-03-06 19:24:21,45.15825,-93.86823,At US-12 - Accident.,1003.0, Highway 25 S,Buffalo,Wright,MN,33.0,10.0,Fair,False

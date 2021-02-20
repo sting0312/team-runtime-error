@@ -1,4 +1,5 @@
 Unnamed: 0,ID,TMC,Severity,Start_Time,End_Time,Start_Lat,Start_Lng,Description,Number,Street,City,County,State,Temperature(F),Visibility(mi),Weather_Condition,Traffic_Signal
+2967021,A-2967350,,2,2020-12-23 22:43:05,2020-12-23 23:35:05,43.789967,-95.012398,Slow traffic on US-71 N - US-71 S from I-90 (US-71) to MN-60/Cindy St (US-71) due to accident.,89698.0, US Highway 71,Windom,Jackson,MN,1.0,0.75,Snow / Windy,False
 2967034,A-2967364,,2,2020-12-10 23:49:30,2020-12-11 00:26:30,45.36728,-93.564344,Stationary traffic on US-169 N from CR-33/205th Ave (US-169) to CR-4/Fremont Ln (US-169) due to accident.,21883.0, Highway 169,Elk River,Sherburne,MN,35.0,10.0,Fair,False
 2967066,A-2967396,,2,2020-10-19 18:33:47,2020-10-19 19:48:54,45.693872,-94.875721,Incident on I-94 WB near SECOND AVE Drive with caution.,,I-94 W,Melrose,Stearns,MN,31.0,10.0,Cloudy,False
 2967133,A-2967464,,2,2020-12-21 16:17:05,2020-12-21 18:17:42,44.94892,-92.959066,Incident on I-494 near I-694 Drive with caution.,,I-694 S,Saint Paul,Washington,MN,28.0,10.0,Cloudy,False
@@ -10609,3 +10610,4 @@ Unnamed: 0,ID,TMC,Severity,Start_Time,End_Time,Start_Lat,Start_Lng,Description,N
 3237804,A-3241975,,2,2020-12-09 14:55:32,2020-12-09 16:56:26,44.181271,-93.949166,Incident on MN-22 SB near N VICTORY DR Drive with caution.,1898.0, N Victory Dr,Mankato,Blue Earth,MN,51.0,10.0,Fair,True
 3237820,A-3241991,,2,2020-12-20 04:25:31,2020-12-20 07:30:07,44.62357100000001,-93.29805,Incident on I-35 NB near DEUCE RD Drive with caution.,,225th St E,Lakeville,Scott,MN,21.0,10.0,Fair,False
 3237832,A-3242003,,2,2020-10-22 14:35:06,2020-10-22 15:50:15,45.976897,-94.408942,Incident on MN-27 near 115TH AVE Drive with caution.,15001.0, 120th Ave,Little Falls,Morrison,MN,,,,False
+3237911,A-3242083,,2,2020-11-09 05:48:32,2020-11-09 08:48:37,44.342566,-92.761861,Incident on US-52 NB near 135TH AVE Drive with caution.,,Highway 52 Blvd,Zumbrota,Goodhue,MN,63.0,10.0,Cloudy / Windy,False

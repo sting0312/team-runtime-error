@@ -10609,3 +10609,4 @@ Unnamed: 0,ID,TMC,Severity,Start_Time,End_Time,Start_Lat,Start_Lng,Description,N
 2966791,A-2967119,,2,2020-10-25 19:58:03,2020-10-25 23:01:27,43.950952,-92.358537,Incident on I-90 WB near US-52 Drive with caution.,,I-90 W,Rochester,Olmsted,MN,25.0,10.0,Cloudy,False
 2966828,A-2967156,,2,2020-10-30 03:12:03,2020-10-30 04:27:09,47.02949,-93.600978,Incident on US-169 near 353RD AVE Drive with caution.,35398.0, E County Line Rd,Hill City,Itasca,MN,29.0,10.0,Cloudy,False
 2966994,A-2967323,,2,2020-12-24 08:57:23,2020-12-24 10:59:08,45.03628,-93.001184,Incident on I-694 WB near MN-120 Drive with caution.,,I-694 W,Saint Paul,Ramsey,MN,-4.0,10.0,Fair,False
+2967021,A-2967350,,2,2020-12-23 22:43:05,2020-12-23 23:35:05,43.789967,-95.012398,Slow traffic on US-71 N - US-71 S from I-90 (US-71) to MN-60/Cindy St (US-71) due to accident.,89698.0, US Highway 71,Windom,Jackson,MN,1.0,0.75,Snow / Windy,False
